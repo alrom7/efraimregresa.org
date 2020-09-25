@@ -38,7 +38,7 @@ style="background-image: url('img/banner/sidurim.jpg');
       <h4 class="card-title text-center">Sidur Shabat</h4>
      <p>Shemot 20:8-11 Acordarte has del yom del Shabat, para
 apartarlo: séis yamin laborarás y harás toda tu obra; mas el
-yom shevií ha de ser shabat para <b>𐤉𐤄𐤅𐤄</b> tu Eloaj.
+yom shevií ha de ser shabat para <b>יהוה</b> tu Eloaj.
 	</p>
       <a href="pdf/sidur-shabat2020.pdf" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
     </div>
@@ -52,7 +52,7 @@ yom shevií ha de ser shabat para <b>𐤉𐤄𐤅𐤄</b> tu Eloaj.
     <img class="card-img-top" src="img/sidurim/pesaj.jpg" alt="Card image" style="width:100%">
     <div class="card-body">
       <h4 class="card-title text-center">Séder de Pesaj de YaHuwshúa</h4>
-     <p>Por la dedicación del Shem de <b>𐤉𐤄𐤅𐤄</b>, ha sido preparada la Cena de Pesaj ordenada por el Melej ha Olam YaHWeH a nuestro pueblo Yisrael.
+     <p>Por la dedicación del Shem de <b>יהוה</b>, ha sido preparada la Cena de Pesaj ordenada por el Melej ha Olam YaHWeH a nuestro pueblo Yisrael.
 	</p>
       <a href="pdf/sidur-pesaj.pdf" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
     </div>
@@ -66,7 +66,7 @@ yom shevií ha de ser shabat para <b>𐤉𐤄𐤅𐤄</b> tu Eloaj.
     <img class="card-img-top" src="img/sidurim/shavuot.jpg" alt="Card image" style="width:100%">
     <div class="card-body">
       <h4 class="card-title">Séder de shavuot</h4>
-     <p>La nueva revelación. Uno de los temas de Shavuot es la nueva revelación de la voluntad de <b>𐤉𐤄𐤅𐤄</b>. Tres eventos importantes acontecieron en este yom como sombra del Brit Hadashah
+     <p>La nueva revelación. Uno de los temas de Shavuot es la nueva revelación de la voluntad de <b>יהוה</b>. Tres eventos importantes acontecieron en este yom como sombra del Brit Hadashah
 	</p>
       <a href="pdf/sidur-shavuot.pdf" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
     </div>
@@ -112,7 +112,7 @@ yom shevií ha de ser shabat para <b>𐤉𐤄𐤅𐤄</b> tu Eloaj.
     <img class="card-img-top" src="img/sidurim/sucot.jpg" alt="Card image" style="width:100%">
     <div class="card-body">
       <h4 class="card-title">Séder para Jag Sucot</h4>
-     <p>Vayikra 23:39-44 Empero á los quince del mes séptimo, cuando hubiereis allegado el fruto de la aretz, haréis jag a <b>𐤉𐤄𐤅𐤄</b> por siete yamim: el primer yom ha de ser shabat; shabat ha de ser además el octavo yom.
+     <p>Vayikra 23:39-44 Empero á los quince del mes séptimo, cuando hubiereis allegado el fruto de la aretz, haréis jag a <b>יהוה</b> por siete yamim: el primer yom ha de ser shabat; shabat ha de ser además el octavo yom.
 	 </p>
       <a href="pdf/sidur-sucot.pdf" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
     </div>
