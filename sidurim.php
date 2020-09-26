@@ -24,7 +24,7 @@ style="background-image: url('img/banner/sidurim.jpg');
 
 
 <div class="container-fluid py-3">
-  <h5 class="py-3 text-center">Aquí encontrará el sidur de tefilót, sidur de hallel, sefer de estudio, entre otros.</h5>
+  <h5 class="py-3 text-center">Aquí encontrará el sidur de tefilót, sidur de hallel, sefer de enseñanza, entre otros.</h5>
   
   <!-- Grid row !-->
   <div class="row">

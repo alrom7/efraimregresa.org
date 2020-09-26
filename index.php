@@ -96,7 +96,7 @@
 <!--Mask-->
 <div id="intro" class="view">
 
-  <div class="mask rgba-black-strong">
+  <div id="maintop" class="mask rgba-black-strong">
 
     <div class="container-fluid d-flex align-items-center justify-content-center h-100">
       <div class="row d-flex justify-content-center text-center">
@@ -233,7 +233,7 @@
               </div>
 
               <h4 class="my-3 font-weight-bold">Parashot</h4>
-              <p>Cada una de las 54 partes en la que se divide la Torá, para así facilitar su lectura a lo largo de un ciclo anual.</p>
+              <p>Cada una de las 54 partes en la que se clasifica la Davar, para así facilitar su lectura a lo largo de un ciclo anual.</p>
 
             </div>
             <!--Grid column-->
@@ -249,7 +249,7 @@
               </div>
 
               <h4 class="my-3 font-weight-bold">Sidurim</h4>
-              <p>Literatura utilizada para la abodah como: sidur de tefilót, sidur de hallel, sefer de estudio entre otros.</p>
+              <p>Literatura utilizada para la abodah como: sidur de tefilót, sidur de hallel, sefer de enseñanza, entre otros.</p>
 
             </div>
             <!--Grid column-->
@@ -432,6 +432,15 @@ como la Casa de Efraim, Casa del Bejor ó Casa del primogénito."</p>
 <!--Main layout-->
 
 <!-- Footer -->
+
+<!--Go top-->
+<div class="container py-3 text-right">
+  <a href="#maintop" title="Ir al inicio de la página">
+    <i class="fas fa-arrow-alt-circle-up fa-5x" 
+    style="text-shadow: 3px 3px 3px #1c2331;">  </i>
+  </a>
+</div>
+
 <footer class="page-footer unique-color-dark">
   <!-- Social buttons -->
   <div class="primary-color">

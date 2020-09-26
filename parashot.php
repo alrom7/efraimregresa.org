@@ -16,14 +16,14 @@ style="background-image: url('img/banner/parashot.jpg');
     <div class="row h-100 align-items-center py-5">
       <div class="col-12 text-center text-white py-5">
         <h1 class="display-4 font-weight-bold">Parashot</h1>
-        <p class="lead">Lecturas de la Torá para cada shavua</p>
+        <p class="lead">Lecturas de la Davar para cada shavua</p>
       </div>
     </div>
   </div>
 </header>
 
 <div class="container py-5">
-	<p>La parashah de la shavua (en hebreo: פרשת השבוע <b>Parashah Hashavoua</b>) es la porción semanal de la Torá leída durante cada shabat, para leer toda la Torá entre el Sim'hat Torá de un año y el de el año siguiente.</p>
+	<p>La parashah de la shavua (en hebreo: פרשת השבוע <b>Parashah Hashavoua</b>) es la porción semanal de la Davar leída durante cada shabat, para leer toda la Davar entre el Sim'hat Davar de un año y el de el año siguiente.</p>
 	<p>A cada parashah corresponde un haftara, pasaje de los Profetas que comparten un tema común en la sección leída.</p>
 	<p>Los parashot (plur.) están segmentadas en siete secciones.</p>
 	<p><a href="pdf/parashot.pdf" target="_blank">Puede descargarlas haciendo clic aquí</a>
@@ -35,7 +35,7 @@ style="background-image: url('img/banner/parashot.jpg');
 
 <div class="container py-5 text-white" >
 	<div class="alert deep-dark-blue shadow h3 text-white">
-	    S'farim torah 
+	    S'farim Davar 
 	</div>
 
 	<div class="list-group" style="font-weight: 500;">
@@ -78,15 +78,15 @@ style="background-image: url('img/banner/bereshit.jpg');
           <h4>Lecturas (Parashah 1)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bereshit 1:1-6:8</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yeshayah (Isaías) 42:5-43:10</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Mattityah (Mat.) 1:1-17; 19:3-9; Lucas 3:23-38; 10:1-12; Yojanán (Juan) 1:1-18; 1 Corintios 6:15-20; 15:35:58; Romanos 5:12:21; Efesios 5:21-32; Colosenses 1:14-17; 1 Timoteo 2:11-15; Israelitas Mesiánicos (Hebreos) 1:1-3; 3:7-4:11; 11:1-7;
                 2 Kefa (Pedro) 3:3-14; Revelación 21:1-5; 22:1-5</p>
             </li>
@@ -106,15 +106,15 @@ style="background-image: url('img/banner/bereshit.jpg');
           <h4>Lecturas (Parashah 2)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bereshit 6:9-11:32</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yeshayah (Isaías) 52:13-55:5</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Mattityah (Mateo) 24:36:44; Lucas 17:26-37; Hechos 2:1-17; 1 Kefa (1 Pedro) 3:18-22; 2 Kefa (2 Pedro) 2:5
               </p>
             </li>
@@ -134,15 +134,15 @@ style="background-image: url('img/banner/bereshit.jpg');
           <h4>Lecturas (Parashah 3)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bereshit 12:1-17:27</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yeshayah (Isaías) 40:27-41:16</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>
                 Hechos 7:1-8; Romanos 3:19-5:6; Gálatas 3:15-18; 5:1-6; Colosenses 2:11-15; Israelitas Mesiánicos (Hebreos) 7:1-19; 11:8-12
               </p>
@@ -163,15 +163,15 @@ style="background-image: url('img/banner/bereshit.jpg');
           <h4>Lecturas (Parashah 4)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bereshit 18:1-22:24</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Melajim bet (2Reyes) 4:1-37</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>
                 Lucas 17:26-37; Romanos 9:6-9; Gálatas 4:21-31; Israelitas Mesiánicos (Hebreos) 6:13-20; 11:13-19; Yaakov 2:14-24; 2 Kefa (2 Pedro) 2:4-10
               </p>
@@ -192,15 +192,15 @@ style="background-image: url('img/banner/bereshit.jpg');
           <h4>Lecturas (Parashah 5)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bereshit 23:1-25:18</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Melajim Alef (1 Reyes) 1:1-31</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>
                 Mattityah (Mateo) 8:19-22; 27:3-10; Lucas 9:57-62
               </p>
@@ -221,15 +221,15 @@ style="background-image: url('img/banner/bereshit.jpg');
           <h4>Lecturas (Parashah 6)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bereshit 25:19-28:9</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Malaji (Malaquías) 1:1-2:7</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>
                 Romanos 9:6-16; Israelitas Mesiánicos (Hebreos) 11:20; 12:14-17
               </p>
@@ -250,15 +250,15 @@ style="background-image: url('img/banner/bereshit.jpg');
           <h4>Lecturas (Parashah 7)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bereshit 28:10-32-3</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Hoshea (Oseas) 11:7-13:10</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>
                 Yojanán (Juan) 1:43-51
               </p>
@@ -279,15 +279,15 @@ style="background-image: url('img/banner/bereshit.jpg');
           <h4>Lecturas (Parashah 8)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bereshit 32:4-36:43</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Hoshea (Oseas) 11:7-12:12; Ovadyah (Abdías) 1-21</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>
                 1 Corintios 5:1-13; Revelación 7:1-12
               </p>
@@ -308,15 +308,15 @@ style="background-image: url('img/banner/bereshit.jpg');
           <h4>Lecturas (Parashah 9)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bereshit 37:1-40:23</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Amos 2:6 - 3:8</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>
                 Hechos 7:9-16
               </p>
@@ -337,15 +337,15 @@ style="background-image: url('img/banner/bereshit.jpg');
           <h4>Lecturas (Parashah 10)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bereshit 41:1-44:17</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Melajim Alef (1 Reyes) 3:15-4:1</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>
                 Hechos 7:9-16
               </p>
@@ -366,15 +366,15 @@ style="background-image: url('img/banner/bereshit.jpg');
           <h4>Lecturas (Parashah 11)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bereshit 44:18-47:27</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yejezkel (Ezequiel) 37:15-28</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>
                 Hechos 7:9-16
               </p>
@@ -395,15 +395,15 @@ style="background-image: url('img/banner/bereshit.jpg');
           <h4>Lecturas (Parashah 12)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bereshit 47:28-50:26</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Melajim Alef (1 Reyes) 2:1-12</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>
                 Hechos 7:9-16; Israelitas Mesiánicos (Hebreos) 11:21-22; 1 Kefa (1 Pedro) 1:3-9; 2:11-17
               </p>
@@ -447,15 +447,15 @@ style="background-image: url('img/banner/shemot.jpg');
         <h4>Lecturas (parashah 13)</h4>
         <ul>
           <li>
-            <b>Toráh de Moshe</b>
+            <b>Davar de Moshe</b>
             <p>Shemot 1:1-6:1</p>
           </li>
           <li>
-            <b>Toráh de neviim</b>
+            <b>Davar de neviim</b>
             <p>Yeshayah (Isaías) 27:6-28:13; 29:22-23 (A); Yirmeyah (Jeremías) 1:1-2:3 (S)</p>
           </li>
           <li>
-            <b>Toráh Brit hadasha</b>
+            <b>Davar del Brit hadasha</b>
             <p>
               Mattityah (Mateo) 22:23-33; 41-46; Yojanán Mordejai (Marcos) 12:18-27; 35-37; Lucas 20:27-44; Hechos 3:12-15; 5:27-32; 7:17-36; 22:12-16; 24:14-16; Israelitas Mesiánicos (Hebreos) 11:23-26
             </p>
@@ -476,15 +476,15 @@ style="background-image: url('img/banner/shemot.jpg');
         <h4>Lecturas (parashah 14)</h4>
         <ul>
           <li>
-            <b>Toráh de Moshe</b>
+            <b>Davar de Moshe</b>
             <p>Shemot 6:2-9:35</p>
           </li>
           <li>
-            <b>Toráh de neviim</b>
+            <b>Davar de neviim</b>
             <p>Yejezkel (Ezequiel) 28:25-29:21</p>
           </li>
           <li>
-            <b>Toráh Brit hadasha</b>
+            <b>Davar del Brit hadasha</b>
             <p>
               Romanos 9:14-17; 2 Corintios 6:14-7:1
             </p>
@@ -505,15 +505,15 @@ style="background-image: url('img/banner/shemot.jpg');
         <h4>Lecturas (parashah 15)</h4>
         <ul>
           <li>
-            <b>Toráh de Moshe</b>
+            <b>Davar de Moshe</b>
             <p>Shemot 10:1-13:16.</p>
           </li>
           <li>
-            <b>Toráh de neviim</b>
+            <b>Davar de neviim</b>
             <p>Yirmeyah (Jeremías) 46:13-28</p>
           </li>
           <li>
-            <b>Toráh Brit hadasha</b>
+            <b>Davar del Brit hadasha</b>
             <p>
               Lucas 2:22-24; Yojanán (Juan) 19:31-37; Hechos 13:16-17; Revelación 8:6-9:12; 16:1-21
             </p>
@@ -534,15 +534,15 @@ style="background-image: url('img/banner/shemot.jpg');
         <h4>Lecturas (parashah 16)</h4>
         <ul>
           <li>
-            <b>Toráh de Moshe</b>
+            <b>Davar de Moshe</b>
             <p>Shemot 13:17-17:16</p>
           </li>
           <li>
-            <b>Toráh de neviim</b>
+            <b>Davar de neviim</b>
             <p>Shoftim (Jueces) 4:4-5:31</p>
           </li>
           <li>
-            <b>Toráh Brit hadasha</b>
+            <b>Davar del Brit hadasha</b>
             <p>
               Lucas 2:22-24; Yojanán (Juan) 6:25-35; 19:31-37; 1 Corintios 10: 1-13; 2 Corintios 8:1-15; Revelación: 15:1-4
             </p>
@@ -563,15 +563,15 @@ style="background-image: url('img/banner/shemot.jpg');
         <h4>Lecturas (parashah 17)</h4>
         <ul>
           <li>
-            <b>Toráh de Moshe</b>
+            <b>Davar de Moshe</b>
             <p>Shemot 18:1-20:23(26)</p>
           </li>
           <li>
-            <b>Toráh de neviim</b>
+            <b>Davar de neviim</b>
             <p>Yeshayah (Isaías) 6:1-7:6; 9:5-6 (6-7)</p>
           </li>
           <li>
-            <b>Toráh Brit hadasha</b>
+            <b>Davar del Brit hadasha</b>
             <p>
               Mattityah (Mateo) 5:21-30; 15:1-11; 19:16-30; Yojanán Mordejai (Marcos) 7:5-15; 10:17-31; Lucas 18:18-30; Hechos 6:1-7; Romanos 2:17-29; 7:7-12; 13:8-10; Efesios 6:1-3: 1 Timoteo 3:1-15; 2 Timoteo 2:2; Tito 1:5-9; Israelitas Mesiánicos (Hebreos) 12:18-29;
               Yaakov(Jacobo) 2:8-13; 1 Kefa (Pedro) 2:9-10
@@ -593,15 +593,15 @@ style="background-image: url('img/banner/shemot.jpg');
         <h4>Lecturas (parashah 18)</h4>
         <ul>
           <li>
-            <b>Toráh de Moshe</b>
+            <b>Davar de Moshe</b>
             <p>Shemot 21:1-24:18</p>
           </li>
           <li>
-            <b>Toráh de neviim</b>
+            <b>Davar de neviim</b>
             <p>Yirmeyah (Jeremías) 33:25-26; 34:8-22</p>
           </li>
           <li>
-            <b>Toráh Brit hadasha</b>
+            <b>Davar del Brit hadasha</b>
             <p>
               Mattityah (Mateo) 5:38-42; 15:1-20; Yojanán Mordejai (Marcos) 7:1-23; Hechos 23:1-11; Israelitas Mesiánicos (Hebreos) 9:15-22; 10:28-39
             </p>
@@ -622,15 +622,15 @@ style="background-image: url('img/banner/shemot.jpg');
         <h4>Lecturas (parashah 19)</h4>
         <ul>
           <li>
-            <b>Toráh de Moshe</b>
+            <b>Davar de Moshe</b>
             <p>Shemot 25:1-27:19</p>
           </li>
           <li>
-            <b>Toráh de neviim</b>
+            <b>Davar de neviim</b>
             <p>Melajim Alef (1 Reyes) 5:26-6:13</p>
           </li>
           <li>
-            <b>Toráh Brit hadasha</b>
+            <b>Davar del Brit hadasha</b>
             <p>
               Israelitas Mesiánicos (Hebreos) 8:1-6; 9:23-24; 10:1
             </p>
@@ -651,15 +651,15 @@ style="background-image: url('img/banner/shemot.jpg');
         <h4>Lecturas (parashah 20)</h4>
         <ul>
           <li>
-            <b>Toráh de Moshe</b>
+            <b>Davar de Moshe</b>
             <p>Shemot 27:20-30:10</p>
           </li>
           <li>
-            <b>Toráh de neviim</b>
+            <b>Davar de neviim</b>
             <p>Yejezkel (Ezequiel) 43:10-27</p>
           </li>
           <li>
-            <b>Toráh Brit hadasha</b>
+            <b>Davar del Brit hadasha</b>
             <p>
               Filipenses 4:10-20
             </p>
@@ -680,15 +680,15 @@ style="background-image: url('img/banner/shemot.jpg');
         <h4>Lecturas (parashah 21)</h4>
         <ul>
           <li>
-            <b>Toráh de Moshe</b>
+            <b>Davar de Moshe</b>
             <p>Shemot 30:11-34:35</p>
           </li>
           <li>
-            <b>Toráh de neviim</b>
+            <b>Davar de neviim</b>
             <p>Melajim Alef (1 Reyes) 18:1-39</p>
           </li>
           <li>
-            <b>Toráh Brit hadasha</b>
+            <b>Davar del Brit hadasha</b>
             <p>
               Lucas 11:14-20; Hechos 7:35-8:1; 1 Corintios 10:1-13; 2 Corintios 3:1-18
             </p>
@@ -709,15 +709,15 @@ style="background-image: url('img/banner/shemot.jpg');
         <h4>Lecturas (parashah 22)</h4>
         <ul>
           <li>
-            <b>Toráh de Moshe</b>
+            <b>Davar de Moshe</b>
             <p>Shemot 35:1-38:20</p>
           </li>
           <li>
-            <b>Toráh de neviim</b>
+            <b>Davar de neviim</b>
             <p>Melajim Alef (1 Reyes) 7:13-50</p>
           </li>
           <li>
-            <b>Toráh Brit hadasha</b>
+            <b>Davar del Brit hadasha</b>
             <p>
               2 Corintios 9:1-15; Israelitas Mesiánicos 9:1-14; Revelación 11:1-13
             </p>
@@ -738,15 +738,15 @@ style="background-image: url('img/banner/shemot.jpg');
         <h4>Lecturas (parashah 23) </h4>
         <ul>
           <li>
-            <b>Toráh de Moshe</b>
+            <b>Davar de Moshe</b>
             <p>Shemot 38:21-40:38</p>
           </li>
           <li>
-            <b>Toráh de neviim</b>
+            <b>Davar de neviim</b>
             <p>Melajim Alef (1 Reyes) 7:40-8:21</p>
           </li>
           <li>
-            <b>Toráh Brit hadasha</b>
+            <b>Davar del Brit hadasha</b>
             <p>
               Revelación 15:5-8.
             </p>
@@ -790,15 +790,15 @@ style="background-image: url('img/banner/vayikra.jpg');
           <h4>Lecturas (Parashah 24)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Vayikrá 1:1-5:26 (6:7)</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yeshayah (Isaías) 43:21-44:23</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Romanos 8:1-13; Israelitas Mesiánicos 10:1-14; 13:10-16.</p>
             </li>
           </ul>
@@ -818,15 +818,15 @@ style="background-image: url('img/banner/vayikra.jpg');
           <h4>Lecturas (Parashah 25)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Vayikrá 6:1(8)-8:36</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yirmeyah (Jeremías) 7:21-8:3; 9:22-23</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Yojanán Mordejai (Marcos) 12:28-34; Romanos 12:1-2; 1 Corintios 10: 14-23</p>
             </li>
           </ul>
@@ -846,15 +846,15 @@ style="background-image: url('img/banner/vayikra.jpg');
           <h4>Lecturas (Parashah 26)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Vayikrá 9:1-11:47</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Sh'mu'el Bet (2 Samuel) 6:1-7:17</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Yojanán Mordejai(Marcos) 7:1-23; Hechos 5:1-11; 10:1-35; 2 Corintios 6:14-7:1; Gálatas 2:11-16; 1 Kefa (Pedro) 1:13-16</p>
             </li>
           </ul>
@@ -874,15 +874,15 @@ style="background-image: url('img/banner/vayikra.jpg');
           <h4>Lecturas (Parashah 27)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Vayikrá 12:1-13:59</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Melajim Bet (2Reyes) 4:42-5:19</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Mattityah (Mateo) 8:1-4, 11:2-6; Yojanán Mordejai (Marcos)1:40-45; Lucas 2:22-24; 5:12-16; 7:18-23</p>
             </li>
           </ul>
@@ -902,15 +902,15 @@ style="background-image: url('img/banner/vayikra.jpg');
           <h4>Lecturas (Parashah 28)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Vayikrá 14:1-15:33</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Melajim Bet (2 Reyes) 7:3-20</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Mattityah (Mateo) 9:20-26; Yojanán Mordejai (Marcos) 5:24-34; Lucas 8:42b-48; Israelitas Mesiánicos (Hebreos)13:4</p>
             </li>
           </ul>
@@ -930,15 +930,15 @@ style="background-image: url('img/banner/vayikra.jpg');
           <h4>Lecturas (Parashah 29)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Vayikrá 16:1-18:30</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yejezkel (Ezequiel) 22:1-22</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Romanos 3:19-28; 9:30-10:13; 1 Corintios 5:1-13 con 2 Corintios 2:1-11; Gálatas 3:10-14; Israelitas Mesiánicos 7:23-10:25</p>
             </li>
           </ul>
@@ -958,15 +958,15 @@ style="background-image: url('img/banner/vayikra.jpg');
           <h4>Lecturas (Parashah 30)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Vayikrá 19:1-20-27</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Amos 9:7-15; Yejezkel (Ezequiel) 20:2-20</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Mattityah (Mateo) 5:33-37; 5:43-48; 15:1-11; 19:16-30; 22:33-40; Yojanán Mordejai (Marcos) 7:1-23; 12:28-34; Lucas 10:25-39; Romanos 13:8-10; Gálatas 5:13-26; Yaakov (Jacobo) 2:1-9; 1 Kefa (Pedro) 1:13-21</p>
             </li>
           </ul>
@@ -986,15 +986,15 @@ style="background-image: url('img/banner/vayikra.jpg');
           <h4>Lecturas (Parashah 31)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Vayikrá 21:1-24:23</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yejezkel (Ezequiel) 44:15-31</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Mattityah (Mateo) 5:38-42; Gálatas 3:26-29;</p>
               <p>En conexión con las jagim lean las lecturas para la Parashah 41</p>
             </li>
@@ -1015,15 +1015,15 @@ style="background-image: url('img/banner/vayikra.jpg');
           <h4>Lecturas (Parashah 32)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Vayikrá 25:1-26:2</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yirmeyah (Jeremías) 32:6-27</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Lucas 4:16-21; 1 Corintios 7:21-24; Gálatas 6:7-10</p>
             </li>
           </ul>
@@ -1043,15 +1043,15 @@ style="background-image: url('img/banner/vayikra.jpg');
           <h4>Lecturas (Parashah 33)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Vayikrá 26:3-27:34</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yirmeyah (Jeremías) 16:19-17:14</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Yojanán (Juan) 14:15-21; 15:10-12; 1 Yojanán (1 de Juan) completo</p>
             </li>
           </ul>
@@ -1097,15 +1097,15 @@ style="background-image: url('img/banner/bamidbar.jpg');
           <h4>Lecturas (Parashah 34)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bamidbar 1:1-4:20</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Hoshea (Oseas) 2:1-22</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Lucas 2:1-7; 1 Corintios 12:12-31</p>
             </li>
           </ul>
@@ -1125,15 +1125,15 @@ style="background-image: url('img/banner/bamidbar.jpg');
           <h4>Lecturas (Parashah 35)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bamidbar 4:21-7:89</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Shoftim (Jueces) 13:2-25</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Yojanán (Juan) 7:53-8:11; Hechos 21:17-32</p>
             </li>
           </ul>
@@ -1153,15 +1153,15 @@ style="background-image: url('img/banner/bamidbar.jpg');
           <h4>Lecturas (Parashah 36)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bamidbar 8:1-12:16</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Zejaryah (Zacarías) 2:14-4:7</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Yojanán (Juan) 19:31-37; Israelitas Mesiánicos (Hebreos) 3:1-6</p>
             </li>
           </ul>
@@ -1181,15 +1181,15 @@ style="background-image: url('img/banner/bamidbar.jpg');
           <h4>Lecturas (Parashah 37)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bamidbar 13:1-14:41</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yahoshúa (Josué) 2:1-24</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Israelitas Mesiánicos (Hebreos) 3:7-19</p>
             </li>
           </ul>
@@ -1209,15 +1209,15 @@ style="background-image: url('img/banner/bamidbar.jpg');
           <h4>Lecturas (Parashah 38)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bamidbar 16:1-18:32</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Sh'mu'el Alef (1Samuel) 11:14-12:22</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>2 Timoteo 2:8-21; Yahudáh (Judas) 1-25</p>
             </li>
           </ul>
@@ -1237,15 +1237,15 @@ style="background-image: url('img/banner/bamidbar.jpg');
           <h4>Lecturas (Parashah 39)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bamidbar 19:1-22:1</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Shotim (Jueces) 11:1-33</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Yojanán (Juan) 3:9-21; 4:3-30; 12:27-50</p>
             </li>
           </ul>
@@ -1266,15 +1266,15 @@ style="background-image: url('img/banner/bamidbar.jpg');
           <h4>Lecturas (Parashah 40)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bamidbar 22:2-25-9</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Mijah (Miqueas) 5:6-6:8</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>2 Kefa (Pedro) 2:1-22; Yahudáh (Judas) 11; Revelación 2:14-15</p>
             </li>
           </ul>
@@ -1294,15 +1294,15 @@ style="background-image: url('img/banner/bamidbar.jpg');
           <h4>Lecturas (Parashah 41)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bamidbar 25:10-30:1 (29:40)</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Melajim Alef (1 Reyes) 18:46-19:21</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Mattityah (Mateo) 26:1-30; Yojanán Mordejai (Marcos) 14:1-26; Lucas 22:1-20; Yojanán (Juan) 2:13-22; 7:1-13, 37-39; 11:55-12:21; 13:1; 18:28, 39; 19:14; Hechos 2:1-21; 12:3-4: 20:5-6; 16; 27:9-11; 1 Corintios 5:6-8; 16:8; Israelitas Mesiánicos
                 (Hebreos) 11:28</p>
             </li>
@@ -1323,15 +1323,15 @@ style="background-image: url('img/banner/bamidbar.jpg');
           <h4>Lecturas (Parashah 42)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bamidbar 30:2(1)-32:42</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yirmeyah (Jeremías) 1:1-2:3</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Mattityah (Mateo) 5:33-37</p>
             </li>
           </ul>
@@ -1351,15 +1351,15 @@ style="background-image: url('img/banner/bamidbar.jpg');
           <h4>Lecturas (Parashah 43)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Bamidbar 33:1-36:13</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yirmeyah (Jeremías) 2:4-3:4</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Yaakov (Jacobo) 4:1-12</p>
             </li>
           </ul>
@@ -1404,15 +1404,15 @@ style="background-image: url('img/banner/devarim.jpg');
           <h4>Lecturas (parashah 44)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>D'varim 1:1-3:22</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yeshayah (Isaías) 1:1-27</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Yojanán (Juan) 15:1-11; Israelitas Mesiánicos (Hebreos) 3:7-4:11</p>
             </li>
           </ul>
@@ -1431,15 +1431,15 @@ style="background-image: url('img/banner/devarim.jpg');
           <h4>Lecturas (parashah 45)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Devarim 3:23-4:11</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yeshayah (Isaías) 40:1-26</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Mattityah (Mateo) 4:1-11; 22:33-40; Yojanán Mordejai (Marcos) 12:28-34; Lucas 4:1-13; 10:25-37; Hechos 13:13-43; Romanos 3:27-31; 1 Timoteo 2:4-6; Yaakov(Jacobo) 2:14-26;</p>
             </li>
           </ul>
@@ -1458,15 +1458,15 @@ style="background-image: url('img/banner/devarim.jpg');
           <h4>Lecturas (parashah 46)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Devarim 7:12-11:25</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yeshayah (Isaías) 49:14-51:3</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Mattityah (Mateo) 4:1-11; Lucas 4:1-13; Yaakov (Jacobo) 5:7-11</p>
             </li>
           </ul>
@@ -1485,15 +1485,15 @@ style="background-image: url('img/banner/devarim.jpg');
           <h4>Lecturas (parashah 47)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Devarim 11:26-16:17</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yeshayah (Isaías) 54:11-55:5</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>1 Corintios 5:9-13; 1 Yojanán (Juan) 4:1-6</p>
             </li>
           </ul>
@@ -1512,15 +1512,15 @@ style="background-image: url('img/banner/devarim.jpg');
           <h4>Lecturas (parashah 48)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Devarim 16:18-21:9</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yeshayah (Isaías) 51:12-53:12</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Mattityah (Mateo) 5:38-42; 18:15-20; Hechos 3:13-26; 7:35-53; 1 Corintios 5:9-13; 1 Timoteo 5:17-22; Israelitas Mesiánicos (Hebreos) 10:28-31</p>
             </li>
           </ul>
@@ -1539,15 +1539,15 @@ style="background-image: url('img/banner/devarim.jpg');
           <h4>Lecturas (parashah 49)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Devarim 21:10-25:19</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yeshayah (Isaías) 52:13-54:10</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Mattityah (Mateo) 5:31-32; 19:3-12; 22:23-32; Yojanán Mordejai (Marcos)10:2-12; 12:18-27; Lucas 20:27-38; 1 Corintios 9:4-18; Gálatas 3:9-14; 1 Timoteo 5:17-18</p>
             </li>
           </ul>
@@ -1566,15 +1566,15 @@ style="background-image: url('img/banner/devarim.jpg');
           <h4>Lecturas (parashah 50)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Devarim 26:1-29:8</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yeshayah (Isaías) 60:1-22</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Mattityah (Mateo) 13:1-23; Lucas 21:1-4; Hechos 28:17-31; Romanos 11:1-16</p>
             </li>
           </ul>
@@ -1593,15 +1593,15 @@ style="background-image: url('img/banner/devarim.jpg');
           <h4>Lecturas (parashah 51)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Devarim 29:9(10)-30:20</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yeshayah (Isaías) 61:10-63:9</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Romanos 9:30-10:13; Israelitas Mesiánicos (Hebreos) 12:14-15</p>
             </li>
           </ul>
@@ -1620,15 +1620,15 @@ style="background-image: url('img/banner/devarim.jpg');
           <h4>Lecturas (parashah 52)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Devarim 31:1-30</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Hoshea (Oseas) 14:2-10; Mijah (Miqueas) 7:18-20; Yoel (Joel) 2:15-27</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Israelitas Mesiánicos (Hebreos) 13:5-8</p>
             </li>
           </ul>
@@ -1647,15 +1647,15 @@ style="background-image: url('img/banner/devarim.jpg');
           <h4>Lecturas (parashah 53)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Devarim 32:1-52</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Sh'mu'el Bet (2 Samuel) 22:1-51</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Romanos 10:14-21; 12:14-21; Israelitas Mesiánicos (Hebreos) 12:28-29</p>
             </li>
           </ul>
@@ -1674,15 +1674,15 @@ style="background-image: url('img/banner/devarim.jpg');
           <h4>Lecturas (parashah 54)</h4>
           <ul>
             <li>
-              <b>Toráh de Moshe</b>
+              <b>Davar de Moshe</b>
               <p>Devarim 33:1-34:12</p>
             </li>
             <li>
-              <b>Toráh de neviim</b>
+              <b>Davar de neviim</b>
               <p>Yahoshúa (Josué) 1:1-18</p>
             </li>
             <li>
-              <b>Toráh Brit hadasha</b>
+              <b>Davar del Brit hadasha</b>
               <p>Mattityah (Mateo) 17:1-9; Yojanán Mordejai (Marcos) 9:2-10; Lucas 9:28-36; Yahudáh (Judas) 3-4; 8-10</p>
             </li>
           </ul>
