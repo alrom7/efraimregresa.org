@@ -55,7 +55,7 @@
             <a class="nav-link" href="#best-features">Profecías</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#services">Instrucción</a>
+            <a class="nav-link" href="#services">enseñanza</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#gallery">YSRAEL</a>
@@ -213,11 +213,11 @@
 
         <hr class="my-5">
 
-        <!--Section: Nuestra instrucción-->
+        <!--Section: Nuestra enseñanza-->
         <section id="services" class="text-center">
           <br>
           <!-- Heading -->
-          <h2 class="my-5 font-weight-bold">Nuestra instrucción</h2>
+          <h2 class="my-5 font-weight-bold">Nuestra enseñanza</h2>
           
           <!--Grid row-->
           <div class="row">
@@ -274,7 +274,7 @@
           <!--Grid row-->
 
         </section>
-        <!--Section: Nuestra instrucción-->
+        <!--Section: Nuestra enseñanza-->
 
         <hr class="my-5">
 

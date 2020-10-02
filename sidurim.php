@@ -100,7 +100,7 @@ yom shevií ha de ser shabat para <b>יהוה</b> tu Eloaj.
       <h4 class="card-title">Séder para el Yom kipur</h4>
      <p> Mat. 24:30-31 Y entonces se mostrará la señal del Ben Haadam en el shamayim; y entonces lamentarán todas las tribus de la aretz, y han de ver al Ben Haadam que vendrá sobre las nubes del shamayim, con gadol poder.
 	</p>
-      <a href="pdf/sidur-yom-kipur.pdf" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
+      <a href="pdf/2020/2020-sidur-yom-kipur.pdf" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
     </div>
   </div> <!-- End card !-->
   </div> <!-- End column !-->

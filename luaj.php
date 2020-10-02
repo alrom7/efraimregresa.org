@@ -28,6 +28,44 @@ style="background-image: url('img/banner/luaj-min.jpg');
  </div> <!-- End container-->
 </div> <!-- End image header-->
 
+<!-- Begin containter-fluid Seccion descargas luaj -->
+<div  class="container-fluid py-5">
+
+  <h4 class="py-3 text-center">Lúaj Efraimita - Conforme a la iareaj y shemesh</h4>
+  
+  <!-- Grid row !-->
+  <div class="row">
+  
+  <!--Grid column-->
+  <div class="col-lg-6 col-md-6 mb-4 ">
+  <!-- Begin card !-->
+  <div class="card shadow-lg mx-auto" style="width:325px">
+    <img class="card-img-top" src="img/2020/2020-luaj.jpg" alt="Luaj 2020" style="width:100%">
+    <div class="card-body text-center">
+      <h4 class="card-title">Shaná 2020 - 5992</h4>
+      <a href="pdf/2020/2020-luaj-iareaj-parashot.pdf" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
+    </div>
+  </div> <!-- End card !-->
+  </div> <!-- End column !-->
+
+  <!--Grid column-->
+  <div class="col-lg-6 col-md-6 mb-4">
+  <!-- Begin card !-->
+  <div class="card shadow-lg mx-auto" style="width:325px">
+    <img class="card-img-top" src="img/2021/2021-luaj.jpg" 
+    alt="Luaj 2021" style="width:100%">
+    <div class="card-body text-center">
+      <h4 class="card-title text-center">Shaná 2021 - 5993</h4>
+      <a href="pdf/2021/2021-luaj-iareaj-parashot.pdf" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
+    </div>
+  </div> <!-- End card !-->
+  </div> <!-- End column !-->
+
+  </div> <!-- End row !-->
+
+</div> <!-- End containter-fluid Seccion descargas luaj -->
+
+
 <!-- Begin container-fluid Jag Pesaj-->
 <div  class="container-fluid py-5">
 	<h1 class="c-text-blue"><i class="fas fa-wine-glass-alt"></i> 
