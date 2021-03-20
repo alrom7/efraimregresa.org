@@ -128,9 +128,9 @@ style="background-image: url('img/banner/luaj-min.jpg');
     <li class="list-group-item">
     	Rosh Jodesh 10 - Sha. 04 Dec. 2021</li>
     <li class="list-group-item">
-    	Rosh Jodesh 11 - Dom. 02 Ene. 2021</li>
+    	Rosh Jodesh 11 - Dom. 02 Ene. 2022</li>
     <li class="list-group-item">
-    	Rosh Jodesh 12 - Mar. 01 Feb. 2021</li>
+    	Rosh Jodesh 12 - Mar. 01 Feb. 2022</li>
     <li class="list-group-item active">
     	<b>Rosh Jodesh 01 - Mie 02 Mar. 2022</b>
     </li>
