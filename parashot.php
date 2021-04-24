@@ -26,7 +26,7 @@ style="background-image: url('img/banner/parashot.jpg');
 	<p>La parashah de la shavua (en hebreo: פרשת השבוע <b>Parashah Hashavoua</b>) es la porción semanal de la Davar leída durante cada shabat, para leer toda la Davar entre el Sim'hat Davar de un año y el de el año siguiente.</p>
 	<p>A cada parashah corresponde un haftara, pasaje de los Profetas que comparten un tema común en la sección leída.</p>
 	<p>Los parashot (plur.) están segmentadas en siete secciones.</p>
-	<p><a href="pdf/parashot.pdf" target="_blank">Puede descargarlas haciendo clic aquí</a>
+	<p><a href="https://drive.google.com/file/d/1nl_X_K8UW9cDqzICpqeZnZ2SKQJIhCzV/view?usp=sharing" target="_blank">Puede descargarlas haciendo clic aquí</a>
 	</p>
 </div>
 

@@ -44,7 +44,7 @@ style="background-image: url('img/banner/sidurim.jpg');
 apartarlo: séis yamin laborarás y harás toda tu obra; mas el
 yom shevií ha de ser shabat para <b>יהוה</b> tu Eloaj.
   </p>
-      <a href="pdf/sidur-shabat2020.pdf" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
+      <a href="https://drive.google.com/file/d/1D1IXGctvscROS-2PCujcaUK0X1iGbvyP/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
     </div>
   </div> <!-- End card !-->
   </div> <!-- End column !-->
@@ -59,7 +59,7 @@ yom shevií ha de ser shabat para <b>יהוה</b> tu Eloaj.
       <h4 class="card-title">Sefer hallelot</h4>
       <p>Es el libro que contiene las letras de los hallelot que son utilizados para exaltar a <b>יהוה</b> durante una abodah; algunos son exclusivos para recibir el shabat y para las haguim.
       </p>
-      <a href="pdf/sefer-le-halelot-1-92.pdf" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
+      <a href="https://drive.google.com/file/d/1SeiLq5EWfy6P_r_ZNxwOAqa2Zg4M7Gh8/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
     </div>
   </div> <!-- End card !-->
   </div> <!-- End column !-->
@@ -103,7 +103,7 @@ yom shevií ha de ser shabat para <b>יהוה</b> tu Eloaj.
       <h4 class="card-title">Séder de shavuot</h4>
      <p>La nueva revelación. Uno de los temas de Shavuot es la nueva revelación de la voluntad de <b>יהוה</b>. Tres eventos importantes acontecieron en este yom como sombra del Brit Hadashah
 	</p>
-      <a href="pdf/sidur-shavuot.pdf" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
+      <a href="https://drive.google.com/file/d/1z10_Q7Ws7l_da8g_F-mB6Y3_u9rJ8hnR/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
     </div>
   </div> <!-- End card !-->
   </div> <!-- End column !-->
@@ -125,7 +125,7 @@ yom shevií ha de ser shabat para <b>יהוה</b> tu Eloaj.
     <div class="card-body">
       <h4 class="card-title">Séder para el Yom T'ruah</h4>
      <p>Despertando a Efraim, hacia Yahushúa a través de las tres Torot (Jumash, y Brit Hadashah). Llamando a las doce tribus desde las cuatro esquinas de la aretz.</p>
-      <a href="pdf/sidur-yom-teruah.pdf" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
+      <a href="https://drive.google.com/file/d/1fl0qkzA8KOALFBSPzF1ZBwiuJjIKIy5u/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
     </div>
   </div> <!-- End card !-->
   </div> <!-- End column !-->
@@ -139,7 +139,7 @@ yom shevií ha de ser shabat para <b>יהוה</b> tu Eloaj.
       <h4 class="card-title">Séder para el Yom kipur</h4>
      <p> Mat. 24:30-31 Y entonces se mostrará la señal del Ben Haadam en el shamayim; y entonces lamentarán todas las tribus de la aretz, y han de ver al Ben Haadam que vendrá sobre las nubes del shamayim, con gadol poder.
 	</p>
-      <a href="pdf/2020/2020-sidur-yom-kipur.pdf" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
+      <a href="https://drive.google.com/file/d/1ruy5_KaiA13Dy1mbeoBzc6HzRsjcLStq/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
     </div>
   </div> <!-- End card !-->
   </div> <!-- End column !-->
@@ -153,7 +153,7 @@ yom shevií ha de ser shabat para <b>יהוה</b> tu Eloaj.
       <h4 class="card-title">Séder para Jag Sucot</h4>
      <p>Vayikra 23:39-44 Empero á los quince del mes séptimo, cuando hubiereis allegado el fruto de la aretz, haréis jag a <b>יהוה</b> por siete yamim: el primer yom ha de ser shabat; shabat ha de ser además el octavo yom.
 	 </p>
-      <a href="pdf/sidur-sucot.pdf" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
+      <a href="https://drive.google.com/file/d/1PaOZzJjOpRn0xDW-D4LBydfWqlkVvFzY/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
     </div>
   </div> <!-- End card !-->
   </div> <!-- End column !-->

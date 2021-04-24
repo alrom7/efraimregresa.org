@@ -43,7 +43,7 @@ style="background-image: url('img/banner/luaj-min.jpg');
     <img class="card-img-top" src="img/2020/2020-luaj.jpg" alt="Luaj 2020" style="width:100%">
     <div class="card-body text-center">
       <h4 class="card-title">Shaná 2020 - 5992</h4>
-      <a href="pdf/2020/2020-luaj-iareaj-parashot.pdf" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
+      <a href="https://drive.google.com/file/d/1bXoGCBSbAy5atcBHrg9gYhF5ILfM74yX/view?usp=sharing" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
     </div>
   </div> <!-- End card !-->
   </div> <!-- End column !-->
@@ -56,7 +56,7 @@ style="background-image: url('img/banner/luaj-min.jpg');
     alt="Luaj 2021" style="width:100%">
     <div class="card-body text-center">
       <h4 class="card-title text-center">Shaná 2021 - 5993</h4>
-      <a href="pdf/2021/2021-luaj-iareaj-parashot.pdf" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
+      <a href="https://drive.google.com/file/d/1ybE4KBCTbFG5T1fsKgUA-wEmuJN4bKjc/view?usp=sharing" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
     </div>
   </div> <!-- End card !-->
   </div> <!-- End column !-->
