@@ -23,6 +23,14 @@
   <link rel="stylesheet" href="css/mdb.min.css">
   <!-- Custom styles -->
   <link rel="stylesheet" href="css/style.css">
+
+<style>
+body {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: large;
+}
+</style>
 </head>
 <body>
 
@@ -365,7 +373,7 @@
             <br><br>
             <!-- Heading -->
             <h2 class="mb-5 font-weight-bold text-center">Contáctanos</h2>
-
+            <p class="mb-2">¿Le interesa conocer el plan de redención en Yahshua? escribanos un correo electronico a: <a href="mailto:congregaciondeyhwh@yahoo.com?subject=Quiero conocer la casa de Efraim">congregaciondeyhwh@yahoo.com </a></p>
             <!--Grid row-->
             <div class="row">
 
@@ -374,7 +382,7 @@
             <h4 class="my-3 font-weight-bold">Las dos casas de YISRAEL</h4>
             <p>Dada una estructura del Yisrael Ya'akov y del Yisrael Mashiaj la divrei hayamim de parte del Plan de Elohim iba a estar relacionada en parte con las Dos Casas de Yisrael según el zmán: Dentro de la kehunah de Lewí se iban a conocer ambas Casas como Las Dos Casas de los lomos de Ya'akov y en la kehunah de Melquisedec como las Dos Casas compradas o que renacidas en el Mashiaj ‫יהושע‬ ben hwhy se reducen a nada más una Casa:"La Casa de ‫יהושע‬ ben יהוה que se conoce además
 como la Casa de Efraim, Casa del Bejor ó Casa del primogénito."</p>
-            <p>¿Le interesa conocer el plan de redención en Yahshua? escribanos un correo electronico a: <a href="mailto:congregaciondeyhwh@yahoo.com?subject=Quiero conocer la casa de Efraim">congregaciondeyhwh@yahoo.com </a></p>
+    
             
           </div>
           <!--Grid column-->

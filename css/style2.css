@@ -3,6 +3,7 @@ body,
 header {
     font-family: "Roboto";
     font-weight: 400;
+    font-size: x-large;
 }
 
 h1,
@@ -30,3 +31,10 @@ h6 {
 .deep-dark-blue{background-color: #132331 !important;}
 hr.style1{border-top: 2px solid #132331;}
 hr.style2{border-top: 1px dashed #132331;}
+
+
+body {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: x-large;
+}

@@ -101,7 +101,7 @@ yom shevií ha de ser shabat para <b>יהוה</b> tu Eloaj.
     <img class="card-img-top" src="img/sidurim/shavuot.jpg" alt="Card image" style="width:100%">
     <div class="card-body">
       <h4 class="card-title">Séder de shavuot</h4>
-     <p>La nueva revelación. Uno de los temas de Shavuot es la nueva revelación de la voluntad de <b>יהוה</b>. Tres eventos importantes acontecieron en este yom como sombra del Brit Hadashah
+     <p>La nueva revelación de la voluntad de <b>יהוה</b>, tres eventos importantes acontecieron en este yom como sombra del Brit Hadashah
 	</p>
       <a href="https://drive.google.com/file/d/1z10_Q7Ws7l_da8g_F-mB6Y3_u9rJ8hnR/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
     </div>
@@ -137,8 +137,7 @@ yom shevií ha de ser shabat para <b>יהוה</b> tu Eloaj.
     <img class="card-img-top" src="img/sidurim/yom-kipur.jpg" alt="Card image" style="width:100%">
     <div class="card-body">
       <h4 class="card-title">Séder para el Yom kipur</h4>
-     <p> Mat. 24:30-31 Y entonces se mostrará la señal del Ben Haadam en el shamayim; y entonces lamentarán todas las tribus de la aretz, y han de ver al Ben Haadam que vendrá sobre las nubes del shamayim, con gadol poder.
-	</p>
+     <p>Yom de la capará Mattityah 24:30-31 <br>"Y enviará a sus malajim con gran teruah de shofar, y juntarán sus escogidos de los cuatro cabos, de un cabo del shamayim hasta el otro."</p>
       <a href="https://drive.google.com/file/d/1ruy5_KaiA13Dy1mbeoBzc6HzRsjcLStq/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
     </div>
   </div> <!-- End card !-->
@@ -151,8 +150,8 @@ yom shevií ha de ser shabat para <b>יהוה</b> tu Eloaj.
     <img class="card-img-top" src="img/sidurim/sucot.jpg" alt="Card image" style="width:100%">
     <div class="card-body">
       <h4 class="card-title">Séder para Jag Sucot</h4>
-     <p>Vayikra 23:39-44 Empero á los quince del mes séptimo, cuando hubiereis allegado el fruto de la aretz, haréis jag a <b>יהוה</b> por siete yamim: el primer yom ha de ser shabat; shabat ha de ser además el octavo yom.
-	 </p>
+     <p>Revelación 20:4 <br>"Y ví tronos, y se sentaron sobre ellos, y les fue dado mishpat; y ví
+las neshamot de los degollados por el testimonio de YaHushúa." </p>
       <a href="https://drive.google.com/file/d/1PaOZzJjOpRn0xDW-D4LBydfWqlkVvFzY/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
     </div>
   </div> <!-- End card !-->
