@@ -2,6 +2,8 @@
 <html>
 <head>
 	<?php include_once 'head.php' ?>
+  <!-- Custom styles -->
+  <link rel="stylesheet" href="css/style2.css">
 </head>
 <body>
 
