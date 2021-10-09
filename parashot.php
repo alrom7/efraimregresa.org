@@ -32,7 +32,7 @@ style="background-image: url('img/banner/parashot.jpg');
 	</p>
 </div>
 
-<div class="container-fluid" style="background: DarkGray;">
+<div class="container-fluid" style="background: AliceBlue;">
 
 
 <div class="container py-5 text-white" >
@@ -434,7 +434,7 @@ style="background-image: url('img/banner/shemot.jpg');
   </div>
 </header>
 
-<div class="container-fluid" style="background: DarkGray;">
+<div class="container-fluid" style="background: AliceBlue;">
 <div class="container py-5">
   <div id="accordions" class="mt-4">
   <div class="card">
@@ -1083,7 +1083,7 @@ style="background-image: url('img/banner/bamidbar.jpg');
   </div>
 </header>
 
-<div class="container-fluid" style="background: DarkGray;">
+<div class="container-fluid" style="background: AliceBlue;">
 <div class="container py-5">
 
   <div id="accordionb" class="mt-4">
@@ -1375,7 +1375,7 @@ style="background-image: url('img/banner/bamidbar.jpg');
 </div>
 </div>
 <!-- Container Sefer Bamidbar !-->
-<br>
+
 
 <!-- Sefer Devarim !-->
 
