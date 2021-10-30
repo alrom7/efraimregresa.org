@@ -173,7 +173,7 @@ las neshamot de los degollados por el testimonio de YaHushúa." </p>
       <div class="card-body">
         <h4 class="card-title">Abodá antes y después de fallecer</h4>
         <p>Reconozco ante ti, <b>יהוה</b> &nbsp; que mi briut y mi mavet están en tu yad.</p>
-        <a href="https://drive.google.com/file/d/1QRPUa9NjU5DS2owRbtMVQwA2BSlw0-ED/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
+        <a href="https://drive.google.com/file/d/1wI_KL33IgD_p3yL7660Nrj4vDF997Z5q/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
       </div>
     </div> <!-- End card !-->
   </div> <!-- End row-4 !-->
