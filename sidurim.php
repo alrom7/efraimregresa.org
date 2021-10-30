@@ -160,6 +160,24 @@ las neshamot de los degollados por el testimonio de YaHushúa." </p>
   </div> <!-- End column !-->
 
   </div> <!-- End row-3 !-->
+
+  <!-- Grid row-4 !-->	
+  <div class="row py-2">
+    <div class="col-lg-4 col-md-6 mb-4">
+    </div>
+    <!--Grid column-->
+    <div class="col-lg-4 col-md-6 mb-4">
+    <!-- Begin card !-->
+    <div class="card shadow-lg mx-auto" style="width:325px">
+      <img class="card-img-top" src="img/sidurim/aboda-jole.jpg" alt="Card image" style="width:100%">
+      <div class="card-body">
+        <h4 class="card-title">Abodá antes y después de fallecer</h4>
+        <p>Reconozco ante ti, <b>יהוה</b> &nbsp; que mi briut y mi mavet están en tu yad.</p>
+        <a href="https://drive.google.com/file/d/1QRPUa9NjU5DS2owRbtMVQwA2BSlw0-ED/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
+      </div>
+    </div> <!-- End card !-->
+  </div> <!-- End row-4 !-->
+
 </div>   <!-- End container !-->
 
 
