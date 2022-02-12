@@ -37,30 +37,42 @@ style="background-image: url('img/banner/luaj-min.jpg');
   
   <!-- Grid row !-->
   <div class="row">
+    <!--Grid column-->
+    <div class="col-lg-4 col-md-4 mb-4">
+      <!-- Begin card !-->
+      <div class="card shadow-lg mx-auto" style="width:325px">
+        <img class="card-img-top" src="img/2022/2022-luaj.jpg" 
+        alt="Luaj 2022" style="width:100%">
+        <div class="card-body text-center">
+          <h4 class="card-title text-center">Shaná 2022 - 5994</h4>
+          <a href="https://drive.google.com/file/d/1Zbx_LUqmH0BrR0fLPoFot0mpGIjBsLqa/view?usp=sharing" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
+        </div>
+      </div> <!-- End card !-->
+    </div> <!-- End column !-->
   
-  <!--Grid column-->
-  <div class="col-lg-6 col-md-6 mb-4 ">
-  <!-- Begin card !-->
-  <div class="card shadow-lg mx-auto" style="width:325px">
-    <img class="card-img-top" src="img/2020/2020-luaj.jpg" alt="Luaj 2020" style="width:100%">
-    <div class="card-body text-center">
-      <h4 class="card-title">Shaná 2020 - 5992</h4>
-      <a href="https://drive.google.com/file/d/1bXoGCBSbAy5atcBHrg9gYhF5ILfM74yX/view?usp=sharing" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
-    </div>
-  </div> <!-- End card !-->
-  </div> <!-- End column !-->
+    <!--Grid column-->
+    <div class="col-lg-4 col-md-4 mb-4">
+      <!-- Begin card !-->
+      <div class="card shadow-lg mx-auto" style="width:325px">
+        <img class="card-img-top" src="img/2021/2021-luaj.jpg" 
+        alt="Luaj 2021" style="width:100%">
+        <div class="card-body text-center">
+          <h4 class="card-title text-center">Shaná 2021 - 5993</h4>
+          <a href="https://drive.google.com/file/d/1ybE4KBCTbFG5T1fsKgUA-wEmuJN4bKjc/view?usp=sharing" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
+        </div>
+      </div> <!-- End card !-->
+    </div> <!-- End column !-->
 
   <!--Grid column-->
-  <div class="col-lg-6 col-md-6 mb-4">
-  <!-- Begin card !-->
-  <div class="card shadow-lg mx-auto" style="width:325px">
-    <img class="card-img-top" src="img/2021/2021-luaj.jpg" 
-    alt="Luaj 2021" style="width:100%">
-    <div class="card-body text-center">
-      <h4 class="card-title text-center">Shaná 2021 - 5993</h4>
-      <a href="https://drive.google.com/file/d/1ybE4KBCTbFG5T1fsKgUA-wEmuJN4bKjc/view?usp=sharing" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
-    </div>
-  </div> <!-- End card !-->
+  <div class="col-lg-4 col-md-4 mb-4 ">
+    <!-- Begin card !-->
+    <div class="card shadow-lg mx-auto" style="width:325px">
+      <img class="card-img-top" src="img/2020/2020-luaj.jpg" alt="Luaj 2020" style="width:100%">
+      <div class="card-body text-center">
+        <h4 class="card-title">Shaná 2020 - 5992</h4>
+        <a href="https://drive.google.com/file/d/1bXoGCBSbAy5atcBHrg9gYhF5ILfM74yX/view?usp=sharing" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
+      </div>
+    </div> <!-- End card !-->
   </div> <!-- End column !-->
 
   </div> <!-- End row !-->
@@ -75,10 +87,9 @@ style="background-image: url('img/banner/luaj-min.jpg');
   		Jag Pesaj
 	</h1>
 	<img src="img/luaj/luaj-pesaj.png" 
-  	class="mx-auto d-block img-fluid" alt="Luaj pesaj 2020">
+  	class="mx-auto d-block img-fluid" alt="Luaj pesaj">
 
-  	<h3 class="text-center c-text-blue py-1">Equinoccio</h3>  
-  	<h3 class="text-center c-text-blue py-1">Rosh hodesh = yom 1 del 5993</h3>
+  	<h3 class="text-center c-text-blue py-1">Rosh hodesh más cercano al Equinoccio= yom 1 del 5994</h3>
 </div> <!-- End containter-fluid Jag Pesaj-->
 
 <!-- Begin container-fluid Jag Shavout-->
@@ -90,7 +101,7 @@ style="background-image: url('img/banner/luaj-min.jpg');
   	La cuenta del Omer</h3>
 
   	<img src="img/luaj/luaj-shavuot.png" 
-  	class="mx-auto d-block img-fluid" alt="Rosh hodesh = yom 1 del 5993">
+  	class="mx-auto d-block img-fluid" alt="Rosh hodesh = yom 1 del 5994">
     <br>
   	<img src="img/luaj/luaj-shavuot2.png" 
   	class="mx-auto d-block img-fluid" alt="Rosh hodesh = yom 1 del 5993">
@@ -108,33 +119,33 @@ style="background-image: url('img/banner/luaj-min.jpg');
   		La cuenta del Rosh Jodesh
   </h1>
   <ul class="list-group shadow">
-    <li class="list-group-item active"><b>Rosh Jodesh 01 - Sha. 13 Mar. 2021</b>
+    <li class="list-group-item active"><b>Rosh Jodesh 01 - Vie. 01 Abr. 2022</b>
     </li>
     <li class="list-group-item">
-    	Rosh Jodesh 02 - Lun. 12 Abr. 2021</li>
+    	Rosh Jodesh 02 - Dom. 01 May. 2022</li>
     <li class="list-group-item">
-    	Rosh Jodesh 03 - Mar. 11 May. 2021</li>
+    	Rosh Jodesh 03 - Lun. 30 May. 2022</li>
     <li class="list-group-item">
-    	Rosh Jodesh 04 - Jue. 10 Jun. 2021</li>
+    	Rosh Jodesh 04 - Mie. 29 Jun. 2022</li>
     <li class="list-group-item">
-    	Rosh Jodesh 05 - Sha. 10 Jul. 2021</li>
+    	Rosh Jodesh 05 - Vie. 29 Jul. 2022</li>
     <li class="list-group-item">
-    	Rosh Jodesh 06 - Dom. 08 Ago. 2021</li>
+    	Rosh Jodesh 06 - Sha. 27 Ago. 2022</li>
     <li class="list-group-item">
-    	Rosh Jodesh 07 - Mar. 07 Sep. 2021<b> Yom Teruah</b>
+    	Rosh Jodesh 07 - Lun. 26 Sep. 2022<b> Yom Teruah</b>
     </li>
     <li class="list-group-item">
-    	Rosh Jodesh 08 - Mie. 06 Oct. 2021</li>
+    	Rosh Jodesh 08 - Mar. 25 Oct. 2022</li>
     <li class="list-group-item">
-    	Rosh Jodesh 09 - Jue. 04 Nov. 2021</li>
+    	Rosh Jodesh 09 - Jue. 24 Nov. 2022</li>
     <li class="list-group-item">
-    	Rosh Jodesh 10 - Sha. 04 Dec. 2021</li>
+    	Rosh Jodesh 10 - Vie. 23 Dec. 2022</li>
     <li class="list-group-item">
-    	Rosh Jodesh 11 - Dom. 02 Ene. 2022</li>
+    	Rosh Jodesh 11 - Dom. 22 Ene. 2023</li>
     <li class="list-group-item">
-    	Rosh Jodesh 12 - Mar. 01 Feb. 2022</li>
+    	Rosh Jodesh 12 - Lun. 20 Feb. 2023</li>
     <li class="list-group-item active">
-    	<b>Rosh Jodesh 01 - Mie 02 Mar. 2022</b>
+    	<b>Rosh Jodesh 01 - 21 Mar. 2023</b>
     </li>
   </ul>
 </div> <!-- End containter-fluid La cuenta del Rosh Jodesh-->
@@ -145,10 +156,13 @@ style="background-image: url('img/banner/luaj-min.jpg');
     <i class="far fa-calendar-alt"></i>
   	Jodesh 07</h1>
 
-  <img src="img/luaj/luaj-jodesh07.png" 
+  <img src="img/luaj/luaj-jodesh07.png"
   	class="mx-auto d-block img-fluid" 
   	alt="Jodesh 07">
-
+  <br>
+  <img src="img/luaj/luaj-jodesh08.png"
+  	class="mx-auto d-block img-fluid" 
+  	alt="Jodesh 07">
 </div>
 <!-- End containter-fluid Jodesh 07 !-->
 
