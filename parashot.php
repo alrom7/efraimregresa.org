@@ -89,7 +89,7 @@ style="background-image: url('img/banner/bereshit.jpg');
             </li>
             <li>
               <b>Davar del Brit hadasha</b>
-              <p>Mattityah (Mat.) 1:1-17; 19:3-9; Lucas 3:23-38; 10:1-12; Yojanán (Juan) 1:1-18; 1 Corintios 6:15-20; 15:35:58; Romanos 5:12:21; Efesios 5:21-32; Colosenses 1:14-17; 1 Timoteo 2:11-15; Israelitas Mesiánicos (Hebreos) 1:1-3; 3:7-4:11; 11:1-7;
+              <p>Mattityah (Mat.) 1:1-17; 19:3-9; Lucas 3:23-38; 10:1-12; Yojanán (Juan) 1:1-18; 1 Corintios 6:15-20; 15:35:58; Romanos 5:12:21; Efesios 5:21-32; Colosenses 1:14-17; 1 Timoteo 2:11-15; Hibrit 1:1-3; 3:7-4:11; 11:1-7;
                 2 Kefa (Pedro) 3:3-14; Revelación 21:1-5; 22:1-5</p>
             </li>
           </ul>
@@ -146,7 +146,7 @@ style="background-image: url('img/banner/bereshit.jpg');
             <li>
               <b>Davar del Brit hadasha</b>
               <p>
-                Hechos 7:1-8; Romanos 3:19-5:6; Gálatas 3:15-18; 5:1-6; Colosenses 2:11-15; Israelitas Mesiánicos (Hebreos) 7:1-19; 11:8-12
+                Hechos 7:1-8; Romanos 3:19-5:6; Gálatas 3:15-18; 5:1-6; Colosenses 2:11-15; Hibrit 7:1-19; 11:8-12
               </p>
             </li>
           </ul>
@@ -175,7 +175,7 @@ style="background-image: url('img/banner/bereshit.jpg');
             <li>
               <b>Davar del Brit hadasha</b>
               <p>
-                Lucas 17:26-37; Romanos 9:6-9; Gálatas 4:21-31; Israelitas Mesiánicos (Hebreos) 6:13-20; 11:13-19; Yaakov 2:14-24; 2 Kefa (2 Pedro) 2:4-10
+                Lucas 17:26-37; Romanos 9:6-9; Gálatas 4:21-31; Hibrit 6:13-20; 11:13-19; Yaakov 2:14-24; 2 Kefa (2 Pedro) 2:4-10
               </p>
             </li>
           </ul>
@@ -233,7 +233,7 @@ style="background-image: url('img/banner/bereshit.jpg');
             <li>
               <b>Davar del Brit hadasha</b>
               <p>
-                Romanos 9:6-16; Israelitas Mesiánicos (Hebreos) 11:20; 12:14-17
+                Romanos 9:6-16; Hibrit 11:20; 12:14-17
               </p>
             </li>
           </ul>
@@ -407,7 +407,7 @@ style="background-image: url('img/banner/bereshit.jpg');
             <li>
               <b>Davar del Brit hadasha</b>
               <p>
-                Hechos 7:9-16; Israelitas Mesiánicos (Hebreos) 11:21-22; 1 Kefa (1 Pedro) 1:3-9; 2:11-17
+                Hechos 7:9-16; Hibrit 11:21-22; 1 Kefa (1 Pedro) 1:3-9; 2:11-17
               </p>
             </li>
           </ul>
@@ -459,7 +459,7 @@ style="background-image: url('img/banner/shemot.jpg');
           <li>
             <b>Davar del Brit hadasha</b>
             <p>
-              Mattityah (Mateo) 22:23-33; 41-46; Yojanán Mordejai (Marcos) 12:18-27; 35-37; Lucas 20:27-44; Hechos 3:12-15; 5:27-32; 7:17-36; 22:12-16; 24:14-16; Israelitas Mesiánicos (Hebreos) 11:23-26
+              Mattityah (Mateo) 22:23-33; 41-46; Yojanán Mordejai (Marcos) 12:18-27; 35-37; Lucas 20:27-44; Hechos 3:12-15; 5:27-32; 7:17-36; 22:12-16; 24:14-16; Hibrit 11:23-26
             </p>
           </li>
         </ul>
@@ -575,7 +575,7 @@ style="background-image: url('img/banner/shemot.jpg');
           <li>
             <b>Davar del Brit hadasha</b>
             <p>
-              Mattityah (Mateo) 5:21-30; 15:1-11; 19:16-30; Yojanán Mordejai (Marcos) 7:5-15; 10:17-31; Lucas 18:18-30; Hechos 6:1-7; Romanos 2:17-29; 7:7-12; 13:8-10; Efesios 6:1-3: 1 Timoteo 3:1-15; 2 Timoteo 2:2; Tito 1:5-9; Israelitas Mesiánicos (Hebreos) 12:18-29;
+              Mattityah (Mateo) 5:21-30; 15:1-11; 19:16-30; Yojanán Mordejai (Marcos) 7:5-15; 10:17-31; Lucas 18:18-30; Hechos 6:1-7; Romanos 2:17-29; 7:7-12; 13:8-10; Efesios 6:1-3: 1 Timoteo 3:1-15; 2 Timoteo 2:2; Tito 1:5-9; Hibrit 12:18-29;
               Yaakov(Jacobo) 2:8-13; 1 Kefa (Pedro) 2:9-10
             </p>
           </li>
@@ -605,7 +605,7 @@ style="background-image: url('img/banner/shemot.jpg');
           <li>
             <b>Davar del Brit hadasha</b>
             <p>
-              Mattityah (Mateo) 5:38-42; 15:1-20; Yojanán Mordejai (Marcos) 7:1-23; Hechos 23:1-11; Israelitas Mesiánicos (Hebreos) 9:15-22; 10:28-39
+              Mattityah (Mateo) 5:38-42; 15:1-20; Yojanán Mordejai (Marcos) 7:1-23; Hechos 23:1-11; Hibrit 9:15-22; 10:28-39
             </p>
           </li>
         </ul>
@@ -634,7 +634,7 @@ style="background-image: url('img/banner/shemot.jpg');
           <li>
             <b>Davar del Brit hadasha</b>
             <p>
-              Israelitas Mesiánicos (Hebreos) 8:1-6; 9:23-24; 10:1
+              Hibrit 8:1-6; 9:23-24; 10:1
             </p>
           </li>
         </ul>
@@ -721,7 +721,7 @@ style="background-image: url('img/banner/shemot.jpg');
           <li>
             <b>Davar del Brit hadasha</b>
             <p>
-              2 Corintios 9:1-15; Israelitas Mesiánicos 9:1-14; Revelación 11:1-13
+              2 Corintios 9:1-15; Hibrit 9:1-14; Revelación 11:1-13
             </p>
           </li>
         </ul>
@@ -801,7 +801,7 @@ style="background-image: url('img/banner/vayikra.jpg');
             </li>
             <li>
               <b>Davar del Brit hadasha</b>
-              <p>Romanos 8:1-13; Israelitas Mesiánicos 10:1-14; 13:10-16.</p>
+              <p>Romanos 8:1-13; Hibrit 10:1-14; 13:10-16.</p>
             </li>
           </ul>
         </div>
@@ -913,7 +913,7 @@ style="background-image: url('img/banner/vayikra.jpg');
             </li>
             <li>
               <b>Davar del Brit hadasha</b>
-              <p>Mattityah (Mateo) 9:20-26; Yojanán Mordejai (Marcos) 5:24-34; Lucas 8:42b-48; Israelitas Mesiánicos (Hebreos)13:4</p>
+              <p>Mattityah (Mateo) 9:20-26; Yojanán Mordejai (Marcos) 5:24-34; Lucas 8:42b-48; Hibrit13:4</p>
             </li>
           </ul>
         </div>
@@ -941,7 +941,7 @@ style="background-image: url('img/banner/vayikra.jpg');
             </li>
             <li>
               <b>Davar del Brit hadasha</b>
-              <p>Romanos 3:19-28; 9:30-10:13; 1 Corintios 5:1-13 con 2 Corintios 2:1-11; Gálatas 3:10-14; Israelitas Mesiánicos 7:23-10:25</p>
+              <p>Romanos 3:19-28; 9:30-10:13; 1 Corintios 5:1-13 con 2 Corintios 2:1-11; Gálatas 3:10-14; Hibrit 7:23-10:25</p>
             </li>
           </ul>
         </div>
@@ -1164,7 +1164,7 @@ style="background-image: url('img/banner/bamidbar.jpg');
             </li>
             <li>
               <b>Davar del Brit hadasha</b>
-              <p>Yojanán (Juan) 19:31-37; Israelitas Mesiánicos (Hebreos) 3:1-6</p>
+              <p>Yojanán (Juan) 19:31-37; Hibrit 3:1-6</p>
             </li>
           </ul>
         </div>
@@ -1192,7 +1192,7 @@ style="background-image: url('img/banner/bamidbar.jpg');
             </li>
             <li>
               <b>Davar del Brit hadasha</b>
-              <p>Israelitas Mesiánicos (Hebreos) 3:7-19</p>
+              <p>Hibrit 3:7-19</p>
             </li>
           </ul>
         </div>
@@ -1305,7 +1305,7 @@ style="background-image: url('img/banner/bamidbar.jpg');
             </li>
             <li>
               <b>Davar del Brit hadasha</b>
-              <p>Mattityah (Mateo) 26:1-30; Yojanán Mordejai (Marcos) 14:1-26; Lucas 22:1-20; Yojanán (Juan) 2:13-22; 7:1-13, 37-39; 11:55-12:21; 13:1; 18:28, 39; 19:14; Hechos 2:1-21; 12:3-4: 20:5-6; 16; 27:9-11; 1 Corintios 5:6-8; 16:8; Israelitas Mesiánicos
+              <p>Mattityah (Mateo) 26:1-30; Yojanán Mordejai (Marcos) 14:1-26; Lucas 22:1-20; Yojanán (Juan) 2:13-22; 7:1-13, 37-39; 11:55-12:21; 13:1; 18:28, 39; 19:14; Hechos 2:1-21; 12:3-4: 20:5-6; 16; 27:9-11; 1 Corintios 5:6-8; 16:8; Hibrit
                 (Hebreos) 11:28</p>
             </li>
           </ul>
@@ -1415,7 +1415,7 @@ style="background-image: url('img/banner/devarim.jpg');
             </li>
             <li>
               <b>Davar del Brit hadasha</b>
-              <p>Yojanán (Juan) 15:1-11; Israelitas Mesiánicos (Hebreos) 3:7-4:11</p>
+              <p>Yojanán (Juan) 15:1-11; Hibrit 3:7-4:11</p>
             </li>
           </ul>
         </div>
@@ -1523,7 +1523,7 @@ style="background-image: url('img/banner/devarim.jpg');
             </li>
             <li>
               <b>Davar del Brit hadasha</b>
-              <p>Mattityah (Mateo) 5:38-42; 18:15-20; Hechos 3:13-26; 7:35-53; 1 Corintios 5:9-13; 1 Timoteo 5:17-22; Israelitas Mesiánicos (Hebreos) 10:28-31</p>
+              <p>Mattityah (Mateo) 5:38-42; 18:15-20; Hechos 3:13-26; 7:35-53; 1 Corintios 5:9-13; 1 Timoteo 5:17-22; Hibrit 10:28-31</p>
             </li>
           </ul>
         </div>
@@ -1604,7 +1604,7 @@ style="background-image: url('img/banner/devarim.jpg');
             </li>
             <li>
               <b>Davar del Brit hadasha</b>
-              <p>Romanos 9:30-10:13; Israelitas Mesiánicos (Hebreos) 12:14-15</p>
+              <p>Romanos 9:30-10:13; Hibrit 12:14-15</p>
             </li>
           </ul>
         </div>
@@ -1631,7 +1631,7 @@ style="background-image: url('img/banner/devarim.jpg');
             </li>
             <li>
               <b>Davar del Brit hadasha</b>
-              <p>Israelitas Mesiánicos (Hebreos) 13:5-8</p>
+              <p>Hibrit 13:5-8</p>
             </li>
           </ul>
         </div>
@@ -1658,7 +1658,7 @@ style="background-image: url('img/banner/devarim.jpg');
             </li>
             <li>
               <b>Davar del Brit hadasha</b>
-              <p>Romanos 10:14-21; 12:14-21; Israelitas Mesiánicos (Hebreos) 12:28-29</p>
+              <p>Romanos 10:14-21; 12:14-21; Hibrit 12:28-29</p>
             </li>
           </ul>
         </div>
