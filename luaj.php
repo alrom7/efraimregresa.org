@@ -44,7 +44,7 @@ style="background-image: url('img/banner/luaj-min.jpg');
         <img class="card-img-top" src="img/2022/2022-luaj.jpg" 
         alt="Luaj 2022" style="width:100%">
         <div class="card-body text-center">
-          <h4 class="card-title text-center">Shaná 2022 - 5994</h4>
+          <h4 class="card-title text-center">Shaná 2022 - 5995</h4>
           <a href="https://drive.google.com/file/d/1Zbx_LUqmH0BrR0fLPoFot0mpGIjBsLqa/view?usp=sharing" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
         </div>
       </div> <!-- End card !-->
@@ -86,10 +86,15 @@ style="background-image: url('img/banner/luaj-min.jpg');
     	<i class="fas fa-bread-slice"></i>
   		Jag Pesaj
 	</h1>
-	<img src="img/luaj/luaj-pesaj.png" 
+  <img src="img/luaj/0-luaj-pesaj-2023.png" 
+  	class="mx-auto d-block img-fluid" alt="Luaj pesaj">
+    <h3 class="text-center c-text-blue py-1">Rosh hodesh más cercano al Equinoccio= yom 1 del 5995</h3>
+  <br>
+
+	<img src="img/luaj/1-luaj-pesaj-2023.png" 
   	class="mx-auto d-block img-fluid" alt="Luaj pesaj">
 
-  	<h3 class="text-center c-text-blue py-1">Rosh hodesh más cercano al Equinoccio= yom 1 del 5994</h3>
+  	
 </div> <!-- End containter-fluid Jag Pesaj-->
 
 <!-- Begin container-fluid Jag Shavout-->
@@ -100,15 +105,8 @@ style="background-image: url('img/banner/luaj-min.jpg');
   	<h3 class="text-center c-text-blue py-3">
   	La cuenta del Omer</h3>
 
-  	<img src="img/luaj/luaj-shavuot.png" 
-  	class="mx-auto d-block img-fluid" alt="Rosh hodesh = yom 1 del 5994">
-    <br>
-  	<img src="img/luaj/luaj-shavuot2.png" 
-  	class="mx-auto d-block img-fluid" alt="Rosh hodesh = yom 1 del 5993">
-
-    <br>
-    <img src="img/luaj/luaj-shavuot3.png" 
-    class="mx-auto d-block img-fluid" alt="Rosh hodesh = yom 1 del 5993">
+  	<img src="img/luaj/0-luaj-shavuot-2023.png" 
+  	class="mx-auto d-block img-fluid" alt="Rosh hodesh = yom 1 del 5995">
 
 </div> <!-- End containter-fluid Jag Shavuot-->
 
@@ -119,33 +117,33 @@ style="background-image: url('img/banner/luaj-min.jpg');
   		La cuenta del Rosh Jodesh
   </h1>
   <ul class="list-group shadow">
-    <li class="list-group-item active"><b>Rosh Jodesh 01 - Vie. 01 Abr. 2022</b>
+    <li class="list-group-item active"><b>Rosh Jodesh 01 - Mie. 22 Marz. 2023</b>
     </li>
     <li class="list-group-item">
-    	Rosh Jodesh 02 - Dom. 01 May. 2022</li>
+    	Rosh Jodesh 02 - Jue. 20 Abr. 2023</li>
     <li class="list-group-item">
-    	Rosh Jodesh 03 - Lun. 30 May. 2022</li>
+    	Rosh Jodesh 03 - Sha. 20 May. 2023</li>
     <li class="list-group-item">
-    	Rosh Jodesh 04 - Mie. 29 Jun. 2022</li>
+    	Rosh Jodesh 04 - Dom. 18 Jun. 2023</li>
     <li class="list-group-item">
-    	Rosh Jodesh 05 - Vie. 29 Jul. 2022</li>
+    	Rosh Jodesh 05 - Mar. 18 Jul. 2023</li>
     <li class="list-group-item">
-    	Rosh Jodesh 06 - Sha. 27 Ago. 2022</li>
+    	Rosh Jodesh 06 - Mie. 16 Ago. 2023</li>
     <li class="list-group-item">
-    	Rosh Jodesh 07 - Lun. 26 Sep. 2022<b> Yom Teruah</b>
+    	Rosh Jodesh 07 - Vie. 15 Sep. 2023<b> Yom Teruah</b>
     </li>
     <li class="list-group-item">
-    	Rosh Jodesh 08 - Mar. 25 Oct. 2022</li>
+    	Rosh Jodesh 08 - Dom. 15 Oct. 2023</li>
     <li class="list-group-item">
-    	Rosh Jodesh 09 - Jue. 24 Nov. 2022</li>
+    	Rosh Jodesh 09 - Lun. 13 Nov. 2023</li>
     <li class="list-group-item">
-    	Rosh Jodesh 10 - Vie. 23 Dec. 2022</li>
+    	Rosh Jodesh 10 - Mie. 13 Dec. 2023</li>
     <li class="list-group-item">
-    	Rosh Jodesh 11 - Dom. 22 Ene. 2023</li>
+    	Rosh Jodesh 11 - Jue. 11 Ene. 2024</li>
     <li class="list-group-item">
-    	Rosh Jodesh 12 - Lun. 20 Feb. 2023</li>
+    	Rosh Jodesh 12 - Vie. 09 Feb. 2024</li>
     <li class="list-group-item active">
-    	<b>Rosh Jodesh 01 - 21 Mar. 2023</b>
+    	<b>Rosh Jodesh 01 - Dom 10 Mar. 2024</b>
     </li>
   </ul>
 </div> <!-- End containter-fluid La cuenta del Rosh Jodesh-->
