@@ -154,11 +154,11 @@ style="background-image: url('img/banner/luaj-min.jpg');
     <i class="far fa-calendar-alt"></i>
   	Jodesh 07</h1>
 
-  <img src="img/luaj/luaj-jodesh07.png"
+  <img src="img/luaj/2023-jodesh07.png"
   	class="mx-auto d-block img-fluid" 
   	alt="Jodesh 07">
   <br>
-  <img src="img/luaj/luaj-jodesh08.png"
+  <img src="img/luaj/2023-jodesh08.png"
   	class="mx-auto d-block img-fluid" 
   	alt="Jodesh 07">
 </div>
