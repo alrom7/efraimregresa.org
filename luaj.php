@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-NL17W5LGME"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-NL17W5LGME');
+  </script>
+  
 	<?php include_once 'head.php' ?>
   <!-- Custom styles -->
   <link rel="stylesheet" href="css/style2.css">

@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-NL17W5LGME"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-NL17W5LGME');
+  </script>
+  
   <meta charset="UTF-8">
   <meta name="description" content="CONGREGACIÓN YAHRUSHALAYIM  HADASH - UKEFRAS Unión de Kehilot Efraimitas - Rab. Yahosef  Franco Gómez">
   <meta name="keywords" content="Israel, Efraim Regresa, UKEFRAS, Rabino Efraimita Yahosef  Franco Gómez">
