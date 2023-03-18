@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="description" content="CONGREGACIÓN YAHRUSHALAYIM  HADASH - UKEFRAS Unión de Kehilot Efraimitas - Rab. Yahosef  Franco Gómez">
   <meta name="keywords" content="Israel, Efraim Regresa, UKEFRAS, Rabino Efraimita Yahosef  Franco Gómez">
-  <meta name="author" content="Edgardo y Valeria Romero">
+  <meta name="author" content="Valeria Romero y Edgardo Romero">
 
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">

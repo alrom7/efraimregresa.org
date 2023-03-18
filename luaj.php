@@ -41,10 +41,26 @@ style="background-image: url('img/banner/luaj-min.jpg');
     <div class="col-lg-4 col-md-4 mb-4">
       <!-- Begin card !-->
       <div class="card shadow-lg mx-auto" style="width:325px">
+        <img class="card-img-top" src="img/luaj/2023-luaj.png" 
+        alt="Luaj 2023" style="width:100%"> <!-- Photo by Luca Micheli on Unsplash !-->
+        <div class="card-body text-center">
+          <h4 class="card-title text-center">Shaná 2023 - 5995</h4>
+          <a href="https://drive.google.com/file/d/1J4gPaxnNQREX9-Mc-YdVr0Nw1PY3rooV/view?usp=sharing" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
+        </div>
+      </div> <!-- End card !-->
+    </div> <!-- End column !-->
+  </div> <!-- End row !-->
+
+  <!-- Grid row !-->
+  <div class="row">
+    <!--Grid column-->
+    <div class="col-lg-4 col-md-4 mb-4">
+      <!-- Begin card !-->
+      <div class="card shadow-lg mx-auto" style="width:325px">
         <img class="card-img-top" src="img/2022/2022-luaj.jpg" 
         alt="Luaj 2022" style="width:100%">
         <div class="card-body text-center">
-          <h4 class="card-title text-center">Shaná 2022 - 5995</h4>
+          <h4 class="card-title text-center">Shaná 2022 - 5994</h4>
           <a href="https://drive.google.com/file/d/1Zbx_LUqmH0BrR0fLPoFot0mpGIjBsLqa/view?usp=sharing" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
         </div>
       </div> <!-- End card !-->
