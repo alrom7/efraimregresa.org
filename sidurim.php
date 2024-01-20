@@ -56,7 +56,7 @@ style="background-image: url('img/banner/sidurim.jpg');
 apartarlo: séis yamin laborarás y harás toda tu obra; mas el
 yom shevií ha de ser shabat para <b>יהוה</b> tu Eloaj.
   </p>
-      <a href="https://drive.google.com/file/d/1XtKnYYEMqTGKPKrlCC-KT2ul627awjU4/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a> <!-- Actualización 2023 !-->
+      <a href="https://drive.google.com/file/d/1-qFtA5h1QQ408YEzpKs5aDk0QwDIA_c6/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a> <!-- Sidur de Shabat actualización 2024 !-->
     </div>
   </div> <!-- End card !-->
   </div> <!-- End column !-->
