@@ -100,7 +100,7 @@ yom shevií ha de ser shabat para <b>יהוה</b> tu Eloaj.
       <h4 class="card-title text-center">Séder de Pesaj de YaHuwshúa</h4>
      <p>Por la dedicación del Shem de <b>יהוה</b>, ha sido preparada la Cena de Pesaj ordenada por el Melej ha Olam YaHWeH a nuestro pueblo Yisrael.
 	</p>
-      <a href="https://drive.google.com/file/d/1Z3IxHJE7e84DULHcOqNwZcshvU-7w8nH/view?usp=sharing" 
+      <a href="https://drive.google.com/file/d/1UfcxqV8LqbICnarPjhK3SveRazMM9_RY/view?usp=sharing" 
          class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
     </div>
   </div> <!-- End card !-->
