@@ -115,7 +115,7 @@ yom shevií ha de ser shabat para <b>יהוה</b> tu Eloaj.
       <h4 class="card-title">Séder de shavuot</h4>
      <p>La nueva revelación de la voluntad de <b>יהוה</b>, tres eventos importantes acontecieron en este yom como sombra del Brit Hadashah
 	</p>
-      <a href="https://drive.google.com/file/d/1z10_Q7Ws7l_da8g_F-mB6Y3_u9rJ8hnR/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
+      <a href="https://drive.google.com/file/d/1RK0LkPPqjOeyw-i4RlmvgzIYsDa-OwgI/view?usp=sharing" class="btn btn-primary stretched-link mx-auto d-block" target="_blank">Descargar</a>
     </div>
   </div> <!-- End card !-->
   </div> <!-- End column !-->
