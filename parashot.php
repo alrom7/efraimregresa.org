@@ -1170,7 +1170,7 @@ style="background-image: url('img/banner/bamidbar.jpg');
             </li>
             <li>
               <b>Davar de neviim</b>
-              <p>Zejaryah (Zacarías) 2:14-4:7</p>
+              <p>Zejaryah (Zacarías) 3:1-4:14</p>
             </li>
             <li>
               <b>Davar del Brit hadasha</b>
