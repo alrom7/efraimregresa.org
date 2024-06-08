@@ -1194,7 +1194,7 @@ style="background-image: url('img/banner/bamidbar.jpg');
           <ul>
             <li>
               <b>Davar de Moshe</b>
-              <p>Bamidbar 13:1-14:41</p>
+              <p>Bamidbar 13:1-15:41</p>
             </li>
             <li>
               <b>Davar de neviim</b>
