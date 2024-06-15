@@ -1254,7 +1254,7 @@ style="background-image: url('img/banner/bamidbar.jpg');
             </li>
             <li>
               <b>Davar de neviim</b>
-              <p>Shotim (Jueces) 11:1-33</p>
+              <p>Shoftim (Jueces) 11:1-33</p>
             </li>
             <li>
               <b>Davar del Brit hadasha</b>
