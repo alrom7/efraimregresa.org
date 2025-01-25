@@ -59,8 +59,36 @@ style="background-image: url('img/banner/luaj-min.jpg');
         </div>
       </div> <!-- End card !-->
     </div> <!-- End column !-->
+
+    <!--Grid column-->
+    <div class="col-lg-4 col-md-4 mb-4">
+      <!-- Begin card !-->
+      <div class="card shadow-lg mx-auto" style="width:325px">
+        <img class="card-img-top" src="img/luaj/2024-luaj.jpg" 
+        alt="Luaj 2024" style="width:100%"> <!-- Photo by Luca Micheli on Unsplash !-->
+        <div class="card-body text-center">
+          <h4 class="card-title text-center">Shaná 2024 - 5996</h4>
+          <a href="https://drive.google.com/file/d/1baxYO_JOM6oHAwvGe1rW-KcQ37cqcTsU/view?usp=sharing" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
+        </div>
+      </div> <!-- End card !-->
+    </div> <!-- End column !-->
+
+    <!--Grid column-->
+    <div class="col-lg-4 col-md-4 mb-4">
+      <!-- Begin card !-->
+      <div class="card shadow-lg mx-auto" style="width:325px">
+        <img class="card-img-top" src="img/luaj/2025-luaj.jpg" 
+        alt="Luaj 2025" style="width:100%"> <!-- Photo by Luca Micheli on Unsplash !-->
+        <div class="card-body text-center">
+          <h4 class="card-title text-center">Shaná 2025 - 5997</h4>
+          <a href="https://drive.google.com/file/d/1J9E_voztPO7wo-Agd-5LYRKJvtixakKv/view?usp=sharing" class="btn btn-primary stretched-link" target="_blank">Descargar</a>
+        </div>
+      </div> <!-- End card !-->
+    </div> <!-- End column !-->
+
   </div> <!-- End row !-->
 
+  
   <!-- Grid row !-->
   <div class="row">
     <!--Grid column-->
@@ -107,10 +135,10 @@ style="background-image: url('img/banner/luaj-min.jpg');
 
 
 <!-- Begin container-fluid Jag Pesaj-->
-<div  class="container-fluid py-5">
+<!-- <div  class="container-fluid py-5">
 	<h1 class="c-text-blue"><i class="fas fa-wine-glass-alt"></i> 
     	<i class="fas fa-bread-slice"></i>
-  		Jag Pesaj
+  		Jag Pesaj 14/01/5997 - Vie. 11/04/2025
 	</h1>
   <img src="img/luaj/0-luaj-pesaj-2023.png" 
   	class="mx-auto d-block img-fluid" alt="Luaj pesaj">
@@ -118,64 +146,69 @@ style="background-image: url('img/banner/luaj-min.jpg');
   <br>
 
 	<img src="img/luaj/1-luaj-pesaj-2023.png" 
-  	class="mx-auto d-block img-fluid" alt="Luaj pesaj">
+  	class="mx-auto d-block img-fluid" alt="Luaj pesaj"> 
 
-  	
-</div> <!-- End containter-fluid Jag Pesaj-->
+</div> End containter-fluid Jag Pesaj-->
 
 <!-- Begin container-fluid Jag Shavout-->
-<div  class="container-fluid py-5">
+<!-- <div  class="container-fluid py-5">
 	<h1 class="c-text-blue"> 
     <i class="fas fa-seedling"></i>
-  	Jag Shavuot</h1>
+  	Jag Shavuot 05/03/5997 - Sh 31/05/2025</h1>
   	<h3 class="text-center c-text-blue py-3">
   	La cuenta del Omer</h3>
 
   	<img src="img/luaj/0-luaj-shavuot-2023.png" 
-  	class="mx-auto d-block img-fluid" alt="Rosh hodesh = yom 1 del 5995">
+  	class="mx-auto d-block img-fluid" alt="Rosh hodesh = yom 1 del 5995"> 
 
-</div> <!-- End containter-fluid Jag Shavuot-->
+</div> End containter-fluid Jag Shavuot!-->
 
 <!-- Begin container-fluid La cuenta del Rosh Jodesh-->
 <div class="container-fluid py-5">
   <h1 class="c-text-blue">
     	<i class="fas fa-calendar-alt"></i>
-  		La cuenta del Rosh Jodesh
+  		La cuenta del Rosh Jodesh 5997
   </h1>
   <ul class="list-group shadow">
-    <li class="list-group-item active"><b>Rosh Jodesh 01 - Mie. 22 Marz. 2023</b>
+    <li class="list-group-item active"><b>Rosh Jodesh 01 - Sh 29 Mar. 2025</b>
     </li>
     <li class="list-group-item">
-    	Rosh Jodesh 02 - Jue. 20 Abr. 2023</li>
+      <b>Pesaj</b> - Vie. 11 Abr. 2025 (14/01/5997)</li>
     <li class="list-group-item">
-    	Rosh Jodesh 03 - Sha. 20 May. 2023</li>
+    	Rosh Jodesh 02 - Dom. 27 Abr. 2025</li>
     <li class="list-group-item">
-    	Rosh Jodesh 04 - Dom. 18 Jun. 2023</li>
+    	Rosh Jodesh 03 - Mar. 27 May. 2025</li>
     <li class="list-group-item">
-    	Rosh Jodesh 05 - Mar. 18 Jul. 2023</li>
+      <b>Shavuot</b> - Sha. 31 May. 2025 (05/03/5997)</li>
+      
     <li class="list-group-item">
-    	Rosh Jodesh 06 - Mie. 16 Ago. 2023</li>
+    	Rosh Jodesh 04 - Mie. 25 Jun. 2025</li>
     <li class="list-group-item">
-    	Rosh Jodesh 07 - Vie. 15 Sep. 2023<b> Yom Teruah</b>
+    	Rosh Jodesh 05 - Jue. 24 Jul. 2025</li>
+    <li class="list-group-item">
+    	Rosh Jodesh 06 - Sha. 23 Ago. 2025</li>
+    <li class="list-group-item">
+    	Rosh Jodesh 07 - Dom. 21 Sep. 2025<b> Yom Teruah</b>
     </li>
     <li class="list-group-item">
-    	Rosh Jodesh 08 - Dom. 15 Oct. 2023</li>
+      <b> Yom Kipur</b> - Mar. 30 Sep. 2025 (10/07/5997)</li>
     <li class="list-group-item">
-    	Rosh Jodesh 09 - Lun. 13 Nov. 2023</li>
+      <b> Sucot</b> - Dom. 05 al Dom. 12 Oct. 2025</li>
     <li class="list-group-item">
-    	Rosh Jodesh 10 - Mie. 13 Dec. 2023</li>
+    	Rosh Jodesh 08 - Mar. 21 Oct. 2025</li>
     <li class="list-group-item">
-    	Rosh Jodesh 11 - Jue. 11 Ene. 2024</li>
+    	Rosh Jodesh 09 - Jue. 20 Nov. 2025</li>
     <li class="list-group-item">
-    	Rosh Jodesh 12 - Vie. 09 Feb. 2024</li>
-    <li class="list-group-item active">
-    	<b>Rosh Jodesh 01 - Dom 10 Mar. 2024</b>
-    </li>
+      <b>Hanuka</b> - Dom. 14 Dic. 2025 (25/09/5997)</li>
+    <li class="list-group-item">
+    	Rosh Jodesh 10 - Sha. 20 Dic. 2025</li>
+    
+    
   </ul>
 </div> <!-- End containter-fluid La cuenta del Rosh Jodesh-->
 
 <!-- Begin containter-fluid Jodesh 07 !-->
-<div class="container-fluid py-5">
+<!-- <div class="container-fluid py-5">
   <h1 class="c-text-blue"> 
     <i class="far fa-calendar-alt"></i>
   	Jodesh 07</h1>
@@ -188,7 +221,7 @@ style="background-image: url('img/banner/luaj-min.jpg');
   	class="mx-auto d-block img-fluid" 
   	alt="Jodesh 07">
 </div>
-<!-- End containter-fluid Jodesh 07 !-->
+End containter-fluid Jodesh 07 !-->
 
 <?php include_once 'footer.php' ?>
 
